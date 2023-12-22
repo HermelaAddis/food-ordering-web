@@ -402,7 +402,8 @@ footer{
     }
     .home{
         padding-right: 0.5rem;
-        padding: 3rem 1rem 5rem 5rem;
+        display: block;
+        padding: .7rem 1rem 5rem 5rem;
         justify-content: end;
         text-align: right;
     }
